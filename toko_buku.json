@@ -1,0 +1,22 @@
+{
+    "nama_toko": "Toko Buku Manhwa",
+    "pengarang": "Chu Gong, Jang Sung Rak",
+    "alamat": "Jl.korea",
+    "koleksi_buku": [
+        {
+            "judul": "Solo Leveling",
+            "tahun_terbit": 2016,
+            "jumlah_halaman": 179
+        },
+        {
+            "judul": "Omniscient Reader Viewpoint",
+            "tahun_terbit": 2018,
+            "jumlah_halaman": 250
+        },
+        {
+            "judul": "The Beginning After The End",
+            "tahun_terbit": 2018,
+            "jumlah_halaman": 285
+        }
+    ]
+}
